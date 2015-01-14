@@ -7,6 +7,6 @@ public class Addierer {
 	public static void main(String[] args) {
 		
 		Addierer a = new Addierer();
-		System.out.println(a.sub(5, 9));
+		System.out.println(a.sub(9, 9));
 	}
 }
