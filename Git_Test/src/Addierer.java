@@ -1,8 +1,8 @@
 
 public class Addierer {
 
-	public int add(int x, int y){
-		return x +y;
+	public int add(int l, int y){
+		return l +y;
 	}
 	public static void main(String[] args) {
 		
